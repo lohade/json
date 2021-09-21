@@ -28,7 +28,8 @@ public class Inventory {
             System.out.println("pricePerKg::" + pricePerKg);
             System.out.println("type::" + Type);
 
-
+            double value = weight * pricePerKg;
+            System.out.println("value for Inventory is::" + value);
         }
 
         }
