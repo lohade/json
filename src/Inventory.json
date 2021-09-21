@@ -1,0 +1,16 @@
+{
+  "InventoryDetails": [
+    {
+      "Type": "Rice",
+      "Name": "Sugandi",
+      "pricePerKg": 75.12,
+      "weight": 40.00
+    },
+    {
+      "Type": "Wheat",
+      "Name": "desi",
+      "pricePerKg":25.25,
+      "weight": 50.00
+    }
+  ]
+}
