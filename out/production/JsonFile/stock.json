@@ -1,0 +1,21 @@
+{
+  "StockDetails": [
+    {
+    "stock_name":"Tata",
+    "stock_quantity": 45.50,
+    "stock_price": 200.3
+    },
+
+    {
+      "stock_name":"Reliance",
+      "stock_quantity": 100.0,
+      "stock_price": 201.3
+    },
+
+    {
+      "stock_name":"techM",
+      "stock_quantity": 55.50,
+      "stock_price": 210.3
+    }
+  ]
+}
